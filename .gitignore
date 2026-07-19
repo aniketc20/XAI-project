@@ -1,1 +1,4 @@
 .ipynb_checkpoints
+ner_distilbert_finetuned
+ner_distilbert_output
+.DS_Store
